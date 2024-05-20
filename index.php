@@ -11,7 +11,7 @@
 <body>
     <div class="nav">
         <div class="nav__title">
-            <img src="img/logo.svg" alt="" class="nav__title--logo">
+            <img src="img/Logo_standar.png" alt="" class="nav__title--logo">
             <a href="" class="nav__title--link">Zubare</a>
         </div>
         <ul class="nav__menu">
